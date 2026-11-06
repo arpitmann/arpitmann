@@ -94,11 +94,12 @@ A system-wide keyboard listener where letters fire a shotgun, numbers a pistol a
 
 <!-- updated automatically every day by .github/workflows/activity.yml -->
 <!--ACTIVITY:START-->
+- `05 Nov 2026` starred [Equipartition-Magnetic-Field](https://github.com/Arnav-Sharma-3/Equipartition-Magnetic-Field)
+- `05 Nov 2026` starred [Cosmology-Calculator](https://github.com/Arnav-Sharma-3/Cosmology-Calculator)
+- `05 Nov 2026` starred [Equipartition-Magnetic-Field-2](https://github.com/Arnav-Sharma-3/Equipartition-Magnetic-Field-2)
+- `05 Nov 2026` starred [Jet-Power](https://github.com/Arnav-Sharma-3/Jet-Power)
 - `20 Oct 2026` pushed 1 commit to [gunboard](https://github.com/arpitmann/gunboard)
 - `18 Oct 2026` pushed 1 commit to [heic-mov-converter](https://github.com/arpitmann/heic-mov-converter)
-- `16 Oct 2026` pushed 1 commit to [astro-jobwatch](https://github.com/arpitmann/astro-jobwatch)
-- `13 Oct 2026` pushed 1 commit to [offaxis-robot](https://github.com/arpitmann/offaxis-robot)
-- `06 Oct 2026` starred [Off-Axis-Projection-demo](https://github.com/neorxprod/Off-Axis-Projection-demo)
 <!--ACTIVITY:END-->
 
 <details>
