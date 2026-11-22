@@ -98,7 +98,6 @@ A system-wide keyboard listener where letters fire a shotgun, numbers a pistol a
 - `05 Nov 2026` starred [Cosmology-Calculator](https://github.com/Arnav-Sharma-3/Cosmology-Calculator)
 - `05 Nov 2026` starred [Equipartition-Magnetic-Field-2](https://github.com/Arnav-Sharma-3/Equipartition-Magnetic-Field-2)
 - `05 Nov 2026` starred [Jet-Power](https://github.com/Arnav-Sharma-3/Jet-Power)
-- `20 Oct 2026` pushed 1 commit to [gunboard](https://github.com/arpitmann/gunboard)
 <!--ACTIVITY:END-->
 
 <details>
